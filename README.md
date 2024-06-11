@@ -1,6 +1,6 @@
 ## 😀 Hi there, I'm [Biyun Xu](https://github.com/MysterYxby/MysterYxby) (徐必云 in Chinese)👋
 
- ### 📚 I received the B.S. degree from Wuhan Institute of Technology, Wuhan, in 2024， 
+ ### 📚 I received the B.S. degree from Wuhan Institute of Technology, Wuhan, in 2024.
  ### ✏ I'm pursuing the Master's Degree at Harbin Engineering University.
 
  ### 🔭 I’m currently researching on：
