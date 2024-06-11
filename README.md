@@ -3,10 +3,11 @@
  ### 📚 I'm  pursuing a Master's Degree at Harbin Engineering University.
 
  ### 🔭 I’m currently researching on：
-**- Pansharpening
-- image fusion
-- image enhancement**
+- **Pansharpening**
+- **image fusion**
+- **image enhancement**
 
+### ✨ Publications:
 
 <!--
 **MysterYxby/MysterYxby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
