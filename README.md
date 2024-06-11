@@ -7,8 +7,8 @@
 - **image fusion**
 - **image enhancement**
 
-### ✨ Publications:
-
+### ✨ Publications: 
+1. **Biyun Xu**, Shaoyi Li, Shaogang Yang, Haoran Wei, Chaojun Li*, Hao Fang, Zhenghua Huang. "MSPIF: Multi-stage progressive visible and infrared image fusion with structures preservation", Infrared Physics & Technology Volume 133, September 2023, 104848.【[paper](https://doi.org/10.1016/j.infrared.2023.104848)】【[code][https://github.com/MysterYxby/MSPIF]】.
 <!--
 **MysterYxby/MysterYxby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
