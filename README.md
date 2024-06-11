@@ -1,5 +1,6 @@
 ## Hi there, I'm [Biyun Xu](https://github.com/MysterYxby/MysterYxby) (徐必云 in Chinese)👋
 
+📚 # I'm  pursuing a Master's Degree at Harbin Engineering University.
 <!--
 **MysterYxby/MysterYxby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
