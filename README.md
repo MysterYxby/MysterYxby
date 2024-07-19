@@ -1,12 +1,11 @@
 ## 😀 Hi there, I'm [Biyun Xu](https://github.com/MysterYxby/MysterYxby) (徐必云 in Chinese)👋
 
- ### 📚 I received the B.S. degree from Wuhan Institute of Technology, Wuhan, in 2024.
- ### ✏ I'm pursuing the Master's Degree at Harbin Engineering University.
-
- ### 🔭 I’m currently researching on：
+### 📚 I received the B.S. degree from Wuhan Institute of Technology, Wuhan, China, in 2024. 
+### ✏ I'm pursuing the Master's Degree at Harbin Engineering University.
+### 🔭 I’m currently researching on：
 - **Pansharpening**
 - **Image Fusion**
-  
+### 📫 How to reach me: cloudxu08@outtlook.com 
 ### ✨ Publications: 
 1. **Biyun Xu**, Shaoyi Li, Shaogang Yang, Haoran Wei, Chaojun Li*, Hao Fang, Zhenghua Huang. "MSPIF: Multi-stage progressive visible and infrared image fusion with structures preservation", Infrared Physics & Technology Volume 133, September 2023, 104848.【[Paper](https://doi.org/10.1016/j.infrared.2023.104848)】【[Code](https://github.com/MysterYxby/MSPIF)】.
 <!--
