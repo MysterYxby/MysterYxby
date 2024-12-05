@@ -5,6 +5,7 @@
 ### 🔭 I’m currently researching on：
 - **Pansharpening**
 - **Image Fusion**
+- **Deep Learning**
 ### 📫 How to reach me: missxby@163.com / cloudxu08@outlook.com 
 ### ✨ Publications: 
 - Zhenghua Huang, **Biyun Xu**, Menghan Xia, Qian Li, Lianying Zou, Shaoyi Li, Xi Li, "MSCS: Multi-stage feature learning with channel-spatial attention mechanism for infrared and visible image fusion", Infrared Physics & Technology, Volume 142, 2024, 105514.【[Paper](https://doi.org/10.1016/j.infrared.2024.105514.)】【[Code](https://github.com/MysterYxby/MSCS)】.
