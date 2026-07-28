@@ -3,7 +3,7 @@
 ### 📚 I received the B.S. degree from Wuhan Institute of Technology, Wuhan, China, in 2024. 
 ### ✏ I'm pursuing the Master's Degree at Harbin Engineering University.
 ### 🔭 I’m currently researching on：
-- **Pansharpening**
+- **Image Enhancement**
 - **Image Fusion**
 - **Deep Learning**
 ### 📫 How to reach me: cloudxu08@outlook.com 
