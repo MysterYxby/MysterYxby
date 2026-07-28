@@ -8,6 +8,7 @@
 - **Deep Learning**
 ### 📫 How to reach me: cloudxu08@outlook.com 
 ### ✨ Publications: 
+- **B. Xu**, Y. Zheng, S. Mazhar, C. Xu, Z. Huang and Y. Li, "CSSL: High-Fidelity Pansharpening via Compressed Solution Space Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. xx, pp. xx-xx, 2026.【[Paper](https://doi.org/10.1109/TGRS.2026.3716957)】【[Code](https://github.com/MysterYxby/CSSL)】
 - **B. Xu**, Y. Zheng, L. Wang, S. Mazhar, Z. Huang and J. Liu, "DTEA: Degradation-Aware Taylor Expansion Approximation Network for Pansharpening," in IEEE Transactions on Image Processing, vol. 35, pp. 7581-7596, 2026.【[Paper](https://doi.org/10.1109/TIP.2026.3709492)】【[Code](https://github.com/MysterYxby/DTEA)】
 - **Biyun Xu**, Yan Zheng, Suleman Mazhar, Zhenghua Huang, "D2PCFN: Dual domain progressive cross-fusion network for remote sensing image pansharpening", Computer Vision and Image Understanding, Volume 262, 2025, 104525, 【[Paper](https://doi.org/10.1016/j.cviu.2025.104525)】【[Code](https://github.com/MysterYxby/D2PCFN)】
 - Zhenghua Huang; Cheng Lin; **Biyun Xu**; Menghan Xia; Qian Li; Yansheng Li and Nong Sang, "T2EA: Target-aware Taylor Expansion Approximation Network for Infrared and Visible Image Fusion," in IEEE Transactions on Circuits and Systems for Video Technology,vol. 35, no. 5, pp. 4831-4845, 2025.【[Paper](https://doi.org/10.1109/TCSVT.2024.3524794)】【[Code](https://github.com/MysterYxby/T2EA)】.
